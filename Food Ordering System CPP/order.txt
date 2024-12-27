@@ -1,0 +1,11 @@
+========== New Order ==========
+Pizza - $8.99
+Milkshake - $4.99
+Caesar Salad - $5.99
+Total Price: $19.97
+
+========== New Order ==========
+Pulled Pork Sandwich - $6.99
+Cheese Pizza - $7.49
+Total Price: $14.48
+
